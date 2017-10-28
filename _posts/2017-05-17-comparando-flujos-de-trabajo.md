@@ -4,7 +4,7 @@ title: Comparando flujos de trabajo
 ---
 
 
-La lista de posible flujos de trabajo puede hacer difícil saber por dónde empezar cuando implementamos `git` en nuestro propio trabajo. Este artículo proporciona un punto de partida echándole un vistazo a los flujos de trabajo en equipos de empresa más comunes en `git`.^[NOTA: Este artículo es una adaptación al español de la documentación oficial de GStreamer: [Comparing Workflows: Centralized|Featrue Branch|Gitflow|Forking Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows)]]
+La lista de posible flujos de trabajo puede hacer difícil saber por dónde empezar cuando implementamos `git` en nuestro propio trabajo. Este artículo proporciona un punto de partida echándole un vistazo a los flujos de trabajo en equipos de empresa más comunes en `git`.NOTA: Este artículo es una adaptación al español de la documentación oficial de GStreamer: [Comparing Workflows: Centralized|Featrue Branch|Gitflow|Forking Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows)]
 
 A medida que leamos debemos recordar que estos flujos de trabajo están diseñados para ser más una guía que unas reglas concretas. Simplemente se quieren mostrar las cosas que es posible hacer, así que se pueden mezclar y encajar aspectos de distintos flujos de trabajo para atender a las necesidades particulares de cada cuál.
 
